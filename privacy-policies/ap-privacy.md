@@ -1,13 +1,4 @@
-<!-- [Associated Press][0] -->
-
-[About AP][1]   
-  
-  
-
-  
-[][2]
-
-Essential News from The Associated Press
+Source: <http://hosted2.ap.org/APDEFAULT/privacy>
 
 ## The Associated Press Hosted Privacy Policy
 
