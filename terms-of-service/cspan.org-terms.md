@@ -1,3 +1,5 @@
+Source: <http://www.c-span.org/about/termsAndConditions/>
+
 # Terms & Conditions
 
 ## USE OF C‑SPAN VIDEO AND STILL IMAGES ON C‑SPAN WEBSITES
