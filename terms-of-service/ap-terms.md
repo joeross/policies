@@ -1,13 +1,4 @@
-<!-- [Associated Press][0] -->
-
-[About AP][1]   
-  
-  
-
-  
-[][2]
-
-Essential News from The Associated Press
+Source: <http://hosted2.ap.org/APDEFAULT/Terms>
 
 ## The Associated Press Terms and Conditions of Use
 **Please Read These Terms and Conditions of Use Before Using This Web Site.**
