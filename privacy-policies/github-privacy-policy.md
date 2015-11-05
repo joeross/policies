@@ -1,3 +1,5 @@
+Source: <https://help.github.com/articles/github-privacy-policy/>
+
 ## GitHub Privacy Policy
 
 ### [][5]General Information
