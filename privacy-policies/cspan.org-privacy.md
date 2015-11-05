@@ -1,3 +1,5 @@
+Source: <http://www.c-span.org/about/privacy/>
+
 # Privacy
 
 ## C-SPAN.org Privacy Statement
