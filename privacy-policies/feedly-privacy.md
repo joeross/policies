@@ -1,3 +1,5 @@
+Source: <http://feedly.com/i/privacy>
+
 # Feedly Privacy Policy
 
 Last Revised: March 17, 2015
